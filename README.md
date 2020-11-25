@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with Lightbug React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and modified to show 
+basic interaction with the Lightbug API. It is an example only and should not be used in production.
+
+You will need to enter your login details into App.tsx before running `yarn start`
 
 ## Available Scripts
 
