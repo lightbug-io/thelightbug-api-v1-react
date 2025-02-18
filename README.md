@@ -1,4 +1,6 @@
-# Getting Started with Lightbug React App
+# thelightbug.com - Getting Started with Lightbug React App
+
+**Note**: This repository is from circa 2020/21, and may be out of date. Please refer to https://docs.lightbug.io for the most up-to-date information.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and modified to show 
 basic interaction with the Lightbug API. It is an example only and should not be used in production.
